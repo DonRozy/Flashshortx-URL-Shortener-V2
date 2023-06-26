@@ -50,6 +50,7 @@ I have a ton of handy features to help you out, such as:
 - Banner image support 🖼️
 - Batch conversion for channel admins only 📊
 - Channel support for admins only 📢
+- HELP With 🤍 By @FounderOf_ShortX -
 
 Useful commands:
 
