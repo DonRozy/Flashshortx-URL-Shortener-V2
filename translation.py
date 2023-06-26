@@ -13,7 +13,9 @@ I'll handle the rest and get those links shortened or converted in a short time!
 
 START_MESSAGE = """Hi there {} 
 
-To add or update your tulinks shortner api see example 👇👇
+To add or update your flashshortx shortner api see example 👇👇
+
+/base_site flashshortx.in
 
 /shortener_api 6LZq851sXofffPHugiKQq
 
@@ -27,7 +29,7 @@ HELP_MESSAGE = """Hey there! My name is {firstname} and I'm a link convertor and
 
 I have a ton of handy features to help you out, such as:
 
-- [Hyperlink](https://t.me/{username}) support 🔗
+- [flashshortx.in](https://t.me/{username}) support 🔗
 - Button conversion support 🔘
 - Domain inclusion and exclusion options 🌐
 - Header and footer text support 📝
@@ -61,11 +63,11 @@ Current Method: {method}
     
 Methods Available:
 
-> `mdlink` - Change all the links of the post to your MDisk account first and then short to {shortener} link.
+> `flashshortx` - Change all the links of the post to your Flash account first and then short to {shortener} link.
 
-> `shortener` - Short all the links of the post to {shortener} link directly.
+> `flashshortx` - Short all the links of the post to {shortener} link directly.
 
-> `mdisk` - Save all the links of the post to your Mdisk account.
+> `flashshortx` - Save all the links of the post to your flash account.
     
 To change method, choose it from the following options:
 """
