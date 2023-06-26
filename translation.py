@@ -33,7 +33,9 @@ Example:
 
 - Made With 🤍 By @FounderOf_ShortX -
 
-| தமிழ் | తెలుగు | हिंदी | മലയാളം | ಕನ್ |
+| தமிழ் | తెలుగు | हिंदी | മലയാളം | ಕನ್ 
+
+For adding footer write your footer text and then reply your footer text with /footer
 
 Method: {flashshortx.in}
 Shortener website: {flashshortx.in}
