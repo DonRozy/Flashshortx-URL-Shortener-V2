@@ -7,7 +7,7 @@
     "telegram",
     "shortener"
   ],
-  "website": "https://github.com/Neutron-Bots",
+  "website": "https://github.com/Priyacobra",
   "repository": "https://github.com/Priyacobra/Flashshortx-URL-Shortener-V2",
   "env": {
     "BOT_TOKEN": {
