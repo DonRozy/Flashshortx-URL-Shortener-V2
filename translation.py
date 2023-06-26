@@ -50,9 +50,9 @@ ABOUT_TEXT = """
     
 `📝 Language:` [Python 3](https://www.python.org/)
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
-`👨‍💻 Developer:` [Dev](https://t.me/tulinks_official)
-`📢 Support:` [Talk Bot](https://t.me/tulinks_official)
-`🌐 Source Code:` [GitHub](https://t.me/tulinks_official)
+`👨‍💻 Developer:` [Dev](https://t.me/FounderOf_ShortX)
+`📢 Support:` [Talk Bot](https://t.me/FlashshortX)
+`🌐 Source Code:` [GitHub](https://t.me/FlashshortX)
 """
 
 
@@ -74,7 +74,7 @@ CUSTOM_ALIAS_MESSAGE = """For custom alias, `[link] | [custom_alias]`, Send in t
 
 This feature works only in private mode only
 
-Ex: https://t.me/example | Example"""
+Ex: https://t.me/FlashshortX | Example"""
 
 
 ADMINS_MESSAGE = """
