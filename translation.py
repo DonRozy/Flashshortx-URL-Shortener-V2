@@ -15,9 +15,25 @@ START_MESSAGE = """Hi there {}
 
 To add or update your flashshortx shortner api see example 👇👇
 
-/base_site flashshortx.in
+I Am FlashshortX.in , Bulk Link Converter. I Can Convert Links Directly From Your FlashshortX.in Account,
 
-/shortener_api 6LZq851sXofffPHugiKQq
+1. Set Frist 👉  /base_site FlashshortX.in
+2. Go To 👉 https://FlashshortX.in/member/tools/api
+3. Than Copy API Key
+4. Than Type /api than give a single space and than paste your API Key (see example to understand more...)
+
+/shortener_api<space>API Key 
+(See Example.👇)
+Example:
+/shortener_api 04e8ee10b5f123456a640c8f33195abc 
+
+🔗 Hit 👉 /link To Know More About How To Link FlashshortX.in Account To This Bot.
+➕ Hit 👉 /help To Get Help.
+➕ Hit 👉 /footer To Get Help About Adding your Custom Footer to bot.
+
+- Made With 🤍 By @FounderOf_ShortX -
+
+| தமிழ் | తెలుగు | हिंदी | മലയാളം | ಕನ್ |
 
 For adding footer write your footer text and then reply your footer text with /footer
 
