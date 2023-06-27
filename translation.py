@@ -13,27 +13,23 @@ I'll handle the rest and get those links shortened or converted in a short time!
 
 START_MESSAGE = """Hi there {} 
 
-To add or update your flashshortx shortner api see example 👇👇
+I Am FlashshortX.in , Bulk Link Converter. I Can Convert Links Directly From Your FlashshortX.in Account,
 
- I Am FlashshortX.in , Bulk Link Converter. I Can Convert Links Directly From Your FlashshortX.in Account,
-
-1. Set Frist 👉  /base_site FlashshortX.in
+1. Set Frist 👉  `/base_site FlashshortX.in`
 2. Go To 👉 https://FlashshortX.in/member/tools/api
 3. Than Copy API Key
 4. Than Type /api than give a single space and than paste your API Key (see example to understand more...)
 
-🔗 Hit 👉 /link To Know More About How To Link FlashshortX.in Account To This Bot.
+🔗 Hit 👉 /link To Know More About How To Link FlashshortX.in Account To This Bot
 ➕ Hit 👉 /help To Get Help.
 ➕ Hit 👉 /footer To Get Help About Adding your Custom Footer to bot.
 
 - Made With 🤍 By @FounderOf_ShortX -
 
-| தமிழ் | తెలుగు | हिंदी | മലയാളം | ಕನ್ 
+| தமிழ் | తెలుగు | हिंदी | മലയാളം | ಕನ್
 
-For adding footer write your footer text and then reply your footer text with /footer
-
-Method: {flashshortx.in}
-Shortener website: {flashshortx.in}
+Method: {}
+Shortener website: {}
 """
 
 HELP_MESSAGE = """Hey there! My name is {firstname} and I'm a link convertor and shortener bot here to make your work easier and help you earn more 💰.
@@ -48,7 +44,7 @@ I have a ton of handy features to help you out, such as:
 - Banner image support 🖼️
 - Batch conversion for channel admins only 📊
 - Channel support for admins only 📢
-- HELP With 🤍 By @FounderOf_ShortX -
+- HELP With 🤍 By @FounderOf_ShortX
 
 Useful commands:
 
@@ -64,9 +60,9 @@ ABOUT_TEXT = """
     
 `📝 Language:` [Python 3](https://www.python.org/)
 `🧰 Framework:` [Pyrogram](https://github.com/pyrogram/pyrogram)
-`👨‍💻 Developer:` [Dev](https://t.me/FounderOf_ShortX)
+`👨‍💻 Developer:` [Dev](t.me/FounderOf_ShortX)
 `📢 Support:` [Talk Bot](https://t.me/FlashshortX)
-`🌐 Source Code:` [GitHub](https://t.me/FlashshortX)
+`🌐 Source Code:` [GitHub](https://t./me/FlashshortXt)
 """
 
 
@@ -75,11 +71,11 @@ Current Method: {method}
     
 Methods Available:
 
-> `flashshortx` - Change all the links of the post to your Flash account first and then short to {shortener} link.
+> `flashshortx` - Change all the links of the post to your MDisk account first and then short to {shortener} link.
 
 > `flashshortx` - Short all the links of the post to {shortener} link directly.
 
-> `flashshortx` - Save all the links of the post to your flash account.
+> `flashshortx` - Save all the links of the post to your Mdisk account.
     
 To change method, choose it from the following options:
 """
@@ -149,12 +145,12 @@ METHOD_REPLY_MARKUP = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "FlashLINK", callback_data="change_method#mdlink"
+                "FlashLINK", callback_data="change_method#flashlink"
             ),
             InlineKeyboardButton(
                 "Shortener", callback_data="change_method#shortener"
             ),
-            InlineKeyboardButton("Flash", callback_data="change_method#mdisk"),
+            InlineKeyboardButton("Flash", callback_data="change_method#flashisk"),
         ],
         [
             InlineKeyboardButton("Back", callback_data="help_command"),
