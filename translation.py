@@ -22,11 +22,6 @@ To add or update your flashshortx shortner api see example 👇👇
 3. Than Copy API Key
 4. Than Type /api than give a single space and than paste your API Key (see example to understand more...)
 
-/shortener_api<space>API Key 
-(See Example.👇)
-Example:
-/shortener_api 04e8ee10b5f123456a640c8f33195abc 
-
 🔗 Hit 👉 /link To Know More About How To Link FlashshortX.in Account To This Bot.
 ➕ Hit 👉 /help To Get Help.
 ➕ Hit 👉 /footer To Get Help About Adding your Custom Footer to bot.
@@ -154,12 +149,12 @@ METHOD_REPLY_MARKUP = InlineKeyboardMarkup(
     [
         [
             InlineKeyboardButton(
-                "MDLINK", callback_data="change_method#mdlink"
+                "FlashLINK", callback_data="change_method#mdlink"
             ),
             InlineKeyboardButton(
                 "Shortener", callback_data="change_method#shortener"
             ),
-            InlineKeyboardButton("Mdisk", callback_data="change_method#mdisk"),
+            InlineKeyboardButton("Flash", callback_data="change_method#mdisk"),
         ],
         [
             InlineKeyboardButton("Back", callback_data="help_command"),
