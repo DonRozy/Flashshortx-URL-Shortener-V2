@@ -18,7 +18,7 @@ I Am FlashshortX.in , Bulk Link Converter. I Can Convert Links Directly From You
 1. Set Frist 👉  `/base_site FlashshortX.in`
 2. Go To 👉 https://FlashshortX.in/member/tools/api
 3. Than Copy API Key
-4. Than Type /api than give a single space and than paste your API Key (see example to understand more...)
+4. Than Type /shortener_api than give a single space and than paste your API Key (see example to understand more...)
 
 🔗 Hit 👉 /link To Know More About How To Link FlashshortX.in Account To This Bot
 ➕ Hit 👉 /help To Get Help.
