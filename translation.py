@@ -13,7 +13,7 @@ I'll handle the rest and get those links shortened or converted in a short time!
 
 START_MESSAGE = """Hi there {} 
 
-I Am FlashshortX.in , Bulk Link Converter. I Can Convert Links Directly From Your FlashshortX.in Account,
+**I Am FlashshortX.in , Bulk Link Converter. I Can Convert Links Directly From Your FlashshortX.in Account,
 
 1. Set Frist 👉  `/base_site FlashshortX.in`
 2. Go To 👉 https://FlashshortX.in/member/tools/api
@@ -44,7 +44,7 @@ I have a ton of handy features to help you out, such as:
 - Banner image support 🖼️
 - Batch conversion for channel admins only 📊
 - Channel support for admins only 📢
-- HELP With 🤍 By @FounderOf_ShortX
+- HELP With 🤍 By @FounderOf_ShortX**
 
 Useful commands:
 
