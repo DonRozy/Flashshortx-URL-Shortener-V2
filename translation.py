@@ -26,10 +26,10 @@ START_MESSAGE = """Hi there {}
 
 - Made With 🤍 By @FounderOf_ShortX -
 
-| தமிழ் | తెలుగు | हिंदी | മലയാളം | ಕನ್**
+| தமிழ் | తెలుగు | हिंदी | മലയാളം | ಕನ್
 
 Method: {}
-Shortener website: {}
+Shortener website: {}**
 """
 
 HELP_MESSAGE = """Hey there! My name is {firstname} and I'm a link convertor and shortener bot here to make your work easier and help you earn more 💰.
