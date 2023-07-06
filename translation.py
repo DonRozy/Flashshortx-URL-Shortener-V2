@@ -26,7 +26,7 @@ START_MESSAGE = """Hi there {}
 
 - Made With 🤍 By @FounderOf_ShortX -
 
-| தமிழ் | తెలుగు | हिंदी | മലയാളം | ಕನ್
+| தமிழ் | తెలుగు | हिंदी | മലയാളം | ಕನ್**
 
 Method: {}
 Shortener website: {}
@@ -44,7 +44,7 @@ I have a ton of handy features to help you out, such as:
 - Banner image support 🖼️
 - Batch conversion for channel admins only 📊
 - Channel support for admins only 📢
-- HELP With 🤍 By @FounderOf_ShortX**
+- HELP With 🤍 By @FounderOf_ShortX
 
 Useful commands:
 
