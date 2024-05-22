@@ -1,7 +1,7 @@
 if [ -z $SOURCE_CODE ]
 then
   echo "Cloning main Repository"
-  git clone https://github.com/Priyacobra/Flashshortx-URL-Shortener-V2.git /Flashshortx-URL-Shortener-V2
+  git clone https://github.com/JaanuDonu/Flashshortx-URL-Shortener-V2.git /Flashshortx-URL-Shortener-V2
 else
   echo "Cloning Custom Repo from $SOURCE_CODE "
   git clone $SOURCE_CODE /Flashshortx-URL-Shortener-V2
